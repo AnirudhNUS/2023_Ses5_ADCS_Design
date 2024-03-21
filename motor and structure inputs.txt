@@ -1,0 +1,8 @@
+6000    :   RPM (Motor RPM)
+0.97    :   hwheel (wheel thickness (cm))
+2.7     :   rho (density of wheel material (g/cc))
+0.53     :   clwheel (clearance between wheels (cm))
+0.15     :   clwall (clearance between wheel and wall (cm))
+1.5     :   Rmot (Radius of motor including cover (cm))
+2       :   Lmot (Length of motor (cm))
+1       :   gmot (gap between motors (cm))
